@@ -50,10 +50,10 @@ const ServicesSection = () => {
       <div className="container mx-auto">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold mb-6 glow-text">
-            Our Services
+            Our LLM Consulting services for Canadian Businesses
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Comprehensive AI consulting services designed to transform your business operations with cutting-edge technology.
+            Comprehensive AI consulting services designed to transform your business operations with cutting-edge technology; we guide our clients through LLM architecture design, RAG workflows, and model fine-tuning tailored for Canadian industries.
           </p>
         </div>
 
