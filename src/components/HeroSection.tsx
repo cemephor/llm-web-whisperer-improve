@@ -25,7 +25,7 @@ const HeroSection = () => {
             Hermes LLM
           </h1>
           <h2 className="text-3xl md:text-4xl font-light mb-6 gradient-text">
-            Consulting
+            Canadian LLM Consultant & AI Strategist
           </h2>
 
           {/* Subtitle */}
